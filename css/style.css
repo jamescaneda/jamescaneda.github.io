@@ -306,7 +306,7 @@ input[type="submit"]:hover{
 }
  
 .top-bar a:hover{
-	transform: scale(1.1);
+	transform: scale(2.5);
 	color:#009688;
 	
 }
